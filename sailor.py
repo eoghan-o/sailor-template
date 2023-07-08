@@ -8,6 +8,8 @@ Some nice comments
 import random
 
 def main():
+    random.seed(112) # This must be seeded with 112 when you submit
+    
     # Interesting code
     
     
